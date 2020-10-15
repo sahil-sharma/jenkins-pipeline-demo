@@ -17,3 +17,6 @@ echo ""
 nproc
 echo ""
 df -h
+echo ""
+echo "Your selected environment is: $DB_ENV"
+echo ""
